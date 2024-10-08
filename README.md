@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">A passionate UX designer & web developer from India</h3>
 
-- 🌱 I’m currently learning **react js and other frameworks**
+- 🌱 I’m currently learning **react js with frameworks & UX designing**
 
 - 💬 Ask me about **Interaction Design & Web Development**
 
