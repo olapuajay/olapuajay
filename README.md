@@ -3,9 +3,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Web+Developer;Interaction+Designer;Computer+Science+Student;Always+learning+new+things"></a>
 </p>
 
-
 <br>
 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=olapuajay&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+</p>
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -97,13 +99,25 @@
 
  
 
-<br> 
+<br>
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Projects.gif?raw=true" width="50px"> </picture> My Projects
+
+<p align="center">
+  &emsp;
+  <a href="https://olapuajay.github.io/CricTriute/" target="_blank">
+    <img alt="CricTribute" src="https://img.shields.io/badge/Project%201%20-%23E34F26.svg?style=plastic&logo=github&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://restaurant-reactjs-web.netlify.app/" target="_blank">
+    <img alt="Sample Restaurant" src="https://img.shields.io/badge/Project%202%20-%231572B6.svg?style=plastic&logo=github&logoColor=white">
+  </a>
+</p>
+
+<br>
 
 ---
 
-<p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> </picture> Github Stats
 
