@@ -101,7 +101,7 @@
 
 <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Projects.gif?raw=true" width="50px"> </picture> My Projects
+## <picture> <img src="https://www.projectsmart.co.uk/img/project.png" width="50px"> </picture> My Projects
 
 <p align="center">
   &emsp;
