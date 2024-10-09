@@ -6,19 +6,6 @@
 
 <br>
 
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
-	</a>
-
-</p>
-
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -30,7 +17,6 @@
 - :computer: I'm Currently learnning `UX Designing`, `React JS`, `Backend-Development`, other `Frameworks` and `libraries`.
 - :student: Looking for `Internships`.
 - :nerd_face: Always `learning new things`.
-- 
 <br>
 
 
@@ -139,7 +125,6 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olapuajay&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="olapuajay" height="230px"/>
 <br/>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
 
@@ -150,16 +135,16 @@
 <div>
   <p align="center">
 	<a href="https://github.com/olapuajay/CricTriute">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=olapuajay&repo=your-repository-1&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=olapuajay&repo=CricTriute&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/olapuajay/react_restaurant">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=olapuajay&repo=your-repository-2&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=olapuajay&repo=react_restaurant&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     <a href="https://github.com/olapuajay/Banking-Management-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=olapuajay&repo=your-repository-2&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=olapuajay&repo=Banking-Management-System&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     <a href="https://github.com/olapuajay/Library-Management-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=olapuajay&repo=your-repository-2&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=olapuajay&repo=Library-Management-System&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
