@@ -60,10 +60,6 @@
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://react.dev/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
@@ -72,6 +68,10 @@
   &emsp;
   <a href="https://getbootstrap.com/" target="_blank">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://react.dev/" target="_blank">
+    <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
   </a>
   &emsp;
   <a href="https://www.php.net/" target="_blank">
@@ -87,13 +87,13 @@
   &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
-  &emsp;
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
   &emsp;
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+&emsp;
+    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
 </p>
 
 
@@ -101,7 +101,7 @@
 
 <br>
 
-## <picture> <img src="https://www.projectsmart.co.uk/img/project.png" width="50px"> </picture> My Projects
+## <picture> <img src="https://img.favpng.com/0/20/2/project-icon-business-management-icon-project-management-icon-png-favpng-05qyCDKe21ZX6CfmJZGaDXzN7.jpg" width="50px"> </picture> My Projects
 
 <p align="center">
   &emsp;
