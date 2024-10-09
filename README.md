@@ -34,7 +34,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### 🧑‍💻Programming languages
 
 <p align="center"> 
   &emsp;
@@ -51,7 +51,7 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Web Development
+### 🌐 Web Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -79,7 +79,7 @@
   </a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ ### ⚙️ Software & Tools
  
 <p align="center">
   &emsp;
@@ -101,7 +101,7 @@
 
 <br>
 
-## <picture> <img src="https://img.favpng.com/0/20/2/project-icon-business-management-icon-project-management-icon-png-favpng-05qyCDKe21ZX6CfmJZGaDXzN7.jpg" width="50px"> </picture> My Projects
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> My Projects
 
 <p align="center">
   &emsp;
@@ -129,7 +129,7 @@
 
 </details>
   
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+<details><summary><h3>🤖 GitHub Profile Stats</h3></summary>
 
 ----
 	
