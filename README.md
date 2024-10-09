@@ -19,6 +19,7 @@
 - :computer: I'm Currently learnning `UX Designing`, `React JS`, `Backend-Development`, other `Frameworks` and `libraries`.
 - :student: Looking for `Internships`.
 - :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for my `first job opportunity`, this is [MY RESUME]("C:\Users\ajay\Downloads\Black and White Simple Infographic Resume.pdf").
 <br>
 
 
