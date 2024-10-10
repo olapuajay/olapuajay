@@ -20,8 +20,6 @@
 - :student: Looking for `Internships`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for my `first job opportunity`, this is [myResume.pdf](https://github.com/user-attachments/files/17325045/myResume.pdf)
-
-.
 <br>
 
 
