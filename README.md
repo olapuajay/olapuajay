@@ -15,7 +15,7 @@
 
 <br><br>
 
-- :technologist: I'm currently working on `React JS` and `Interation Design`.
+- :technologist: I'm currently working on `React JS` and `UX Design`.
 - :computer: I'm Currently learnning `UX Designing`, `React JS`, `Backend-Development`, other `Frameworks` and `libraries`.
 - :student: Looking for `Internships`.
 - :nerd_face: Always `learning new things`.
