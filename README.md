@@ -110,7 +110,7 @@
     <img alt="CricTribute" src="https://img.shields.io/badge/Project%201%20-%23E34F26.svg?style=plastic&logo=github&logoColor=white">
   </a>
   &emsp;
-  <a href="https://restaurant-reactjs-web.netlify.app/" target="_blank">
+  <a href="bistrowave-restaurant-web.netlify.app" target="_blank">
     <img alt="Sample Restaurant" src="https://img.shields.io/badge/Project%202%20-%231572B6.svg?style=plastic&logo=github&logoColor=white">
   </a>
 </p>
