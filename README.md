@@ -19,7 +19,8 @@
 - :computer: I'm Currently learnning `UX Designing`, `React JS`, `Backend-Development`, other `Frameworks` and `libraries`.
 - :student: Looking for `Internships`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for my `first job opportunity`
+- :thinking: I’m currently open for my `first job opportunity`, [View My Resume](https://github.com/olapuajay/ajay-resume/blob/main/myResume.pdf)
+
 <br>
 
 
