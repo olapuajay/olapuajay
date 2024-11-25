@@ -110,7 +110,7 @@
   </a>
 	&emsp;
   <a href="https://github.com/olapuajay/crictribute" target="_blank">
-    <img alt="Updated Cricket Project" src="https://img.shields.io/badge/Project%202%20-%231572B6.svg?style=plastic&logo=github&logoColor=white">
+    <img alt="Updated Cricket Project" src="https://img.shields.io/badge/Project%203%20-%231572B6.svg?style=plastic&logo=github&logoColor=white">
   </a>
 </p>
 
