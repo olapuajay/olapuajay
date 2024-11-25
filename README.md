@@ -90,8 +90,6 @@
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-&emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
 </p>
 
 
@@ -109,6 +107,10 @@
   &emsp;
   <a href="https://bistrowave-restaurant-web.netlify.app/" target="_blank">
     <img alt="Sample Restaurant" src="https://img.shields.io/badge/Project%202%20-%231572B6.svg?style=plastic&logo=github&logoColor=white">
+  </a>
+	&emsp;
+  <a href="https://github.com/olapuajay/crictribute" target="_blank">
+    <img alt="Updated Cricket Project" src="https://img.shields.io/badge/Project%202%20-%231572B6.svg?style=plastic&logo=github&logoColor=white">
   </a>
 </p>
 
