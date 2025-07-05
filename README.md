@@ -1,170 +1,91 @@
-<h1 align="center">Hi , I'm Ajay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Web+Developer;UI/UX+Designer;Visual+Designer;Interaction+Designer;Computer+Science+Student"></a>
-</p>
-
-<br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=olapuajay&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-</p>
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-
-- :technologist: I'm currently working on `React JS` and `UX Design`.
-- :computer: I'm Currently learnning `UX Designing`, `React JS`, `Backend-Development`, other `Frameworks` and `libraries`.
-- :student: Looking for `Internships`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for my `first job opportunity`.
-
-<br>
-
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="center">
-	<a href="mailto:olapuajay@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/olapuajay"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/olapu-ajay/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/_ajaypatel_18/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-</p>
-
-
-
-## 🛠️ My Skills
-
-### 🧑‍💻Programming languages
-
-<p align="center"> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
-</p>
-
-### 🌐 Web Development
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://react.dev/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?style=plastic&logo=React&logoColor=black">
-  </a>
-  &emsp;
-  <a href="https://www.php.net/" target="_blank">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white">
-  </a>
-</p>
-
- ### ⚙️ Software & Tools
- 
-<p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
-  &emsp;
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
-</p>
-
-
- 
-
-<br>
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> My Projects
+<h1 align="center">Hi, I'm Ajay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center">
-  &emsp;
-  <a href="https://olapuajay.github.io/CricTriute/" target="_blank">
-    <img alt="CricTribute" src="https://img.shields.io/badge/Project%201%20-%23E34F26.svg?style=plastic&logo=github&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://bistrowave-restaurant-web.netlify.app/" target="_blank">
-    <img alt="Sample Restaurant" src="https://img.shields.io/badge/Project%202%20-%231572B6.svg?style=plastic&logo=github&logoColor=white">
-  </a>
-	&emsp;
-  <a href="https://github.com/olapuajay/crictribute" target="_blank">
-    <img alt="Updated Cricket Project" src="https://img.shields.io/badge/Project%203%20-%231572B6.svg?style=plastic&logo=github&logoColor=white">
-  </a>
-	&emsp;
-  <a href="https://filmvault-vite.netlify.app/" target="_blank">
-    <img alt="Updated Cricket Project" src="https://img.shields.io/badge/Project%204%20-%231572B6.svg?style=plastic&logo=github&logoColor=white">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3D8DF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;React+Developer;UI%2FUX+Designer" alt="Typing SVG" /></a>
 </p>
 
-<br>
-
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"> </picture> Github Stats
-
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=olapuajay&theme=tokyonight_duo" alt="olapuajay" /></p>
-
-</details>
+<div align="center">
   
-<details><summary><h3>🤖 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="olapuajay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=olapuajay&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olapuajay&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="olapuajay" height="230px"/>
-<br/>
-
-  </p>
-</details>
-
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
-----
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/olapuajay/CricTriute">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=olapuajay&repo=CricTriute&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/olapuajay/react_restaurant">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=olapuajay&repo=react_restaurant&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    <a href="https://github.com/olapuajay/Banking-Management-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=olapuajay&repo=Banking-Management-System&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    <a href="https://github.com/olapuajay/Library-Management-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=olapuajay&repo=Library-Management-System&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
+  [![Visits Badge](https://komarev.com/ghpvc/?username=olapuajay&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/olapuajay)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/olapu-ajay/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail)](mailto:olapuajay@gmail.com)
+  
 </div>
-</details>
 
+---
 
-</br></br>
+## 👨‍💻 About Me
+
+<img align="right" src="https://raw.githubusercontent.com/olapuajay/olapuajay/main/assets/coding.gif" width="300px" alt="Coding Animation">
+
+- 🔭 Currently working on **MERN Stack projects**
+- 🌱 Learning **Node.js, Express, and other backend technologies**
+- 👨‍💻 Passionate about **creating intuitive user experiences**
+- 🎓 Computer Science student at LPU
+- 💼 Open for **employment opportunities**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+### Backend Technologies
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| [FilmVault](https://filmvault-vite.netlify.app/) | Movie discovery website | React, TMDB API, Tailwind CSS | [Live](https://filmvault-vite.netlify.app/) |
+| [BistroWave](https://bistrowave-restaurant-web.netlify.app/) | Restaurant website | React, Bootstrap | [Live](https://bistrowave-restaurant-web.netlify.app/) |
+| [CricTribute](https://olapuajay.github.io/CricTriute/) | Cricket legends tribute | HTML, CSS, JS | [Live](https://olapuajay.github.io/CricTriute/) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=olapuajay&show_icons=true&theme=radical)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=olapuajay&layout=compact&theme=radical)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=olapuajay&theme=radical)
+  
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/olapu-ajay/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:olapuajay@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://github.com/olapuajay"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/></a>
+</p>
+
+<div align="center">
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=olapuajay&color=blueviolet)
+  
+</div>
