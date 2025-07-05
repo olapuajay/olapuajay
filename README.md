@@ -56,9 +56,9 @@
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
-| [FilmVault](https://filmvault-vite.netlify.app/) | Movie discovery website | React, TMDB API, Tailwind CSS | [Live](https://filmvault-vite.netlify.app/) |
-| [BistroWave](https://bistrowave-restaurant-web.netlify.app/) | Restaurant website | React, Bootstrap | [Live](https://bistrowave-restaurant-web.netlify.app/) |
-| [CricTribute](https://olapuajay.github.io/CricTriute/) | Cricket legends tribute | HTML, CSS, JS | [Live](https://olapuajay.github.io/CricTriute/) |
+| [FilmVault](https://github.com/olapuajay/filmvault) | Movie discovery website | React, TMDB API, Tailwind CSS | [Live](https://filmvault-vite.netlify.app/) |
+| [BistroWave](https://github.com/olapuajay/bistrowave-restaurant-react) | Restaurant website | React, Bootstrap | [Live](https://bistrowave-restaurant-web.netlify.app/) |
+| [CricTribute](https://github.com/olapuajay/CricTriute) | Cricket legends tribute | HTML, CSS, JS | [Live](https://olapuajay.github.io/CricTriute/) |
 
 ---
 
