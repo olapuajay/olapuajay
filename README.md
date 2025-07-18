@@ -56,10 +56,10 @@
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
+| [Pure Harvest](https://github.com/olapuajay/e-commerce-mern) | E-commerce-website | MERN, Tailwind CSS | [Live](https://pureharvest-mern.vercel.app/) |
 | [FilmVault](https://github.com/olapuajay/filmvault) | Movie discovery website | React, TMDB API, Tailwind CSS | [Live](https://filmvault-vite.netlify.app/) |
 | [BistroWave](https://github.com/olapuajay/bistrowave-restaurant-react) | Restaurant website | React, Bootstrap | [Live](https://bistrowave-restaurant-web.netlify.app/) |
 | [CricTribute](https://github.com/olapuajay/CricTriute) | Cricket legends tribute | HTML, CSS, JS | [Live](https://olapuajay.github.io/CricTriute/) |
-| [CricTribute](https://github.com/olapuajay/e-commerce-mern) | Cricket legends tribute | HTML, CSS, JS | [Live](https://pureharvest-mern.vercel.app/) |
 
 ---
 
