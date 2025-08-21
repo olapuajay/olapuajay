@@ -68,6 +68,12 @@
 
 ---
 
+### 🏆 Achievements
+- HackerRank Gold Badge in ReactJS 🟨
+- [View my HackerRank Profile](https://www.hackerrank.com/profile/olapuajay)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
