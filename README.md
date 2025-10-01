@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Ajay <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">I'm Ajay</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3D8DF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;React+Developer;UI%2FUX+Designer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3D8DF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;MERN+Stack+Developer;React+Developer;" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
