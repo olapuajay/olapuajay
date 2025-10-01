@@ -63,6 +63,7 @@
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
+| [FinSight](https://github.com/olapuajay/FinSight_AI_Expense_Tracker) | AI-Based Expense Tracker | MERN, Redux, Websockets | [Live](https://finsight-et.netlify.app/) |
 | [Pure Harvest](https://github.com/olapuajay/e-commerce-mern) | E-commerce-website | MERN, Tailwind CSS | [Live](https://pureharvest-mern.vercel.app/) |
 | [FilmVault](https://github.com/olapuajay/filmvault) | Movie discovery website | React, TMDB API, Tailwind CSS | [Live](https://filmvault-vite.netlify.app/) |
 | [BistroWave](https://github.com/olapuajay/bistrowave-restaurant-react) | Restaurant website | React, Bootstrap | [Live](https://bistrowave-restaurant-web.netlify.app/) |
