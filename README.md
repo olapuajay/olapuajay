@@ -8,7 +8,7 @@
 <div align="center">
   
   [![Visits Badge](https://komarev.com/ghpvc/?username=olapuajay&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/olapuajay)
-  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/olapu-ajay/)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/olapuajay/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail)](mailto:olapuajay@gmail.com)
   
 </div>
@@ -94,7 +94,7 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/olapu-ajay/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/olapuajay/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="mailto:olapuajay@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://github.com/olapuajay"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/></a>
 </p>
