@@ -19,11 +19,11 @@
 
 <img align="right" src="https://raw.githubusercontent.com/olapuajay/olapuajay/main/assets/coding.gif" width="300px" alt="Coding Animation">
 
-- 🔭 Currently working on **MERN Stack projects**
-- 🌱 Learning **Node.js, Express, and other backend technologies**
-- 👨‍💻 Passionate about **creating intuitive user experiences**
-- 🎓 Computer Science student at LPU
-- 💼 Open for **employment opportunities**
+- 🔭 Actively building **real-world MERN Stack applications**
+- 🌱 Strengthening backend skills with **Node.js, Express, MongoDB, and scalable APIs**
+- 🎨 Passionate about **clean UI, smooth UX, and performance-driven web apps**
+- 💼 Open to **internships and full-time roles**
+- 🎓 Computer Science student at **Lovely Professional University (LPU)**
 
 ---
 
@@ -37,6 +37,7 @@
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
@@ -44,11 +45,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Responsive Web Design](https://img.shields.io/badge/-Responsive_Web_Design-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ### Backend Technologies
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -56,6 +52,14 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-005571?style=flat&logo=swagger&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -66,14 +70,11 @@
 | [FinSight](https://github.com/olapuajay/FinSight_AI_Expense_Tracker) | AI-Based Expense Tracker | MERN, Redux, Websockets | [Live](https://finsight-et.netlify.app/) |
 | [Pure Harvest](https://github.com/olapuajay/e-commerce-mern) | E-commerce-website | MERN, Tailwind CSS | [Live](https://pureharvest-mern.vercel.app/) |
 | [FilmVault](https://github.com/olapuajay/filmvault) | Movie discovery website | React, TMDB API, Tailwind CSS | [Live](https://filmvault-vite.netlify.app/) |
-| [BistroWave](https://github.com/olapuajay/bistrowave-restaurant-react) | Restaurant website | React, Bootstrap | [Live](https://bistrowave-restaurant-web.netlify.app/) |
-| [CricTribute](https://github.com/olapuajay/CricTriute) | Cricket legends tribute | HTML, CSS, JS | [Live](https://olapuajay.github.io/CricTriute/) |
 
 ---
 
 ### 🏆 Achievements
-- HackerRank Gold Badge in ReactJS 🟨
-- [View my HackerRank Profile](https://www.hackerrank.com/profile/olapuajay)
+- [HackerRank Gold Badge in ReactJS 🟨](https://www.hackerrank.com/profile/olapuajay)
 
 ---
 
