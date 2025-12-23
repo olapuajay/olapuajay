@@ -1,13 +1,8 @@
 <h1 align="center">I'm Ajay</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3D8DF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;MERN+Stack+Developer;React+Developer;" alt="Typing SVG" /></a>
-</p>
-
 <div align="center">
   
-  [![Visits Badge](https://komarev.com/ghpvc/?username=olapuajay&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/olapuajay)
   [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/olapuajay/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-Contact-red?style=flat&logo=gmail)](mailto:olapuajay@gmail.com)
   
@@ -99,9 +94,3 @@
   <a href="mailto:olapuajay@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://github.com/olapuajay"><img src="https://img.icons8.com/color/48/000000/github--v1.png" alt="GitHub"/></a>
 </p>
-
-<div align="center">
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=olapuajay&color=blueviolet)
-  
-</div>
